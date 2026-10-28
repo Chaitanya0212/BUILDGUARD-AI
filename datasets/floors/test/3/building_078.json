@@ -1,0 +1,28 @@
+{
+  "id": "ann-test-3-2",
+  "image": "test/3/building_078.svg",
+  "floor_count": 3,
+  "storeys_config": "G+2",
+  "style": "institutional_school",
+  "visibility": "good",
+  "difficulties": [
+    "roof_structure"
+  ],
+  "building_bbox": {
+    "x": 0.19,
+    "y": 0.14,
+    "width": 0.68,
+    "height": 0.72
+  },
+  "floor_boundaries": [
+    0.14,
+    0.38,
+    0.62,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.14,
+  "split": "test",
+  "building_id": "bld-ds-078",
+  "camera_angle_deg": 90
+}

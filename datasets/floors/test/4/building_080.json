@@ -1,0 +1,30 @@
+{
+  "id": "ann-test-4-2",
+  "image": "test/4/building_080.svg",
+  "floor_count": 4,
+  "storeys_config": "G+3",
+  "style": "independent_villa",
+  "visibility": "partial",
+  "difficulties": [
+    "trees_blocking",
+    "shadows"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.16,
+    "width": 0.62,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.16,
+    0.33,
+    0.5,
+    0.67,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.16,
+  "split": "test",
+  "building_id": "bld-ds-080",
+  "camera_angle_deg": 45
+}

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+      <defs>
+        <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#90cdf4" />
+          <stop offset="100%" stop-color="#ebf8ff" />
+        </linearGradient>
+      </defs>
+      <!-- Sky Background -->
+      <rect x="0" y="0" width="640" height="480" fill="url(#skyGrad)" />
+      
+      <!-- Building Façade -->
+      <g id="building-facade">
+        
+      <!-- Floor 1 Level -->
+      <rect x="109" y="77" width="416" height="336" fill="#cbd5e0" />
+    
+      <rect x="103" y="409" width="428" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="125" y="170" width="84" height="151" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="167" y1="170" x2="167" y2="321" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="225" y="170" width="84" height="151" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="267" y1="170" x2="267" y2="321" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="325" y="170" width="84" height="151" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="367" y1="170" x2="367" y2="321" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="425" y="170" width="84" height="151" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="467" y1="170" x2="467" y2="321" stroke="#2d3748" stroke-width="1.5" />
+      
+        
+    <!-- Roof Parapet -->
+    <rect x="99" y="65" width="436" height="14" fill="#2b6cb0" stroke="#1a202c" stroke-width="2" />
+    
+  
+      </g>
+      
+      <!-- Ground & Street -->
+      
+    <!-- Ground Baseline -->
+    <rect x="0" y="413" width="640" height="67" fill="#4a5568" />
+    <line x1="0" y1="413" x2="640" y2="413" stroke="#2d3748" stroke-width="3" />
+    <rect x="0" y="425" width="640" height="55" fill="#2d3748" />
+  
+      
+      <!-- Real-world occlusions & artifacts -->
+      
+      
+      <!-- Metadata Tag -->
+      <text x="12" y="20" font-family="monospace" font-size="10" fill="#2d3748" opacity="0.65">BG-DATASET // F1 // COMMERCIAL_COMPLEX</text>
+    </svg>

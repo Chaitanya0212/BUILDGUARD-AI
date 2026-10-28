@@ -1,0 +1,31 @@
+{
+  "id": "ann-train-6-7",
+  "image": "train/6/building_042.svg",
+  "floor_count": 6,
+  "storeys_config": "G+5",
+  "style": "independent_villa",
+  "visibility": "good",
+  "difficulties": [
+    "vehicles_foreground"
+  ],
+  "building_bbox": {
+    "x": 0.19,
+    "y": 0.14,
+    "width": 0.68,
+    "height": 0.7
+  },
+  "floor_boundaries": [
+    0.14,
+    0.257,
+    0.373,
+    0.49,
+    0.607,
+    0.723,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.14,
+  "split": "train",
+  "building_id": "bld-ds-042",
+  "camera_angle_deg": 75
+}

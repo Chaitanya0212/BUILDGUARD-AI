@@ -1,0 +1,27 @@
+{
+  "id": "ann-test-2-2",
+  "image": "test/2/building_076.svg",
+  "floor_count": 2,
+  "storeys_config": "G+1",
+  "style": "independent_villa",
+  "visibility": "good",
+  "difficulties": [
+    "shadows"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.18,
+    "width": 0.65,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.51,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "test",
+  "building_id": "bld-ds-076",
+  "camera_angle_deg": 60
+}

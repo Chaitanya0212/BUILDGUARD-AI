@@ -1,0 +1,28 @@
+{
+  "id": "ann-train-3-2",
+  "image": "train/3/building_016.svg",
+  "floor_count": 3,
+  "storeys_config": "G+2",
+  "style": "residential_apartment",
+  "visibility": "good",
+  "difficulties": [
+    "shadows"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.14,
+    "width": 0.65,
+    "height": 0.72
+  },
+  "floor_boundaries": [
+    0.14,
+    0.38,
+    0.62,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.14,
+  "split": "train",
+  "building_id": "bld-ds-016",
+  "camera_angle_deg": 60
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ann-train-4-4",
+  "image": "train/4/building_025.svg",
+  "floor_count": 4,
+  "storeys_config": "G+3",
+  "style": "mixed_use_stilt",
+  "visibility": "partial",
+  "difficulties": [
+    "trees_blocking"
+  ],
+  "building_bbox": {
+    "x": 0.17,
+    "y": 0.16,
+    "width": 0.65,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.16,
+    0.33,
+    0.5,
+    0.67,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.16,
+  "split": "train",
+  "building_id": "bld-ds-025",
+  "camera_angle_deg": 45
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ann-train-5-7",
+  "image": "train/5/building_035.svg",
+  "floor_count": 5,
+  "storeys_config": "G+4",
+  "style": "office_tower",
+  "visibility": "partial",
+  "difficulties": [
+    "trees_blocking",
+    "vehicles_foreground"
+  ],
+  "building_bbox": {
+    "x": 0.21,
+    "y": 0.18,
+    "width": 0.62,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.18,
+    0.316,
+    0.452,
+    0.588,
+    0.724,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.18,
+  "split": "train",
+  "building_id": "bld-ds-035",
+  "camera_angle_deg": 45
+}

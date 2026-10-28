@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #020617;
+    color: #f8fafc;
+  }
+
+  code, kbd, samp, pre {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* Custom Leaflet Map Container Tweaks */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background-color: #0b0f19 !important;
+  font-family: inherit;
+}
+
+/* Leaflet Custom Marker Glow */
+.custom-map-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Custom Scrollbar for Intelligence Panel & Tables */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Print Stylesheet for Statutory 13-Section Municipal Reports */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  header, nav, aside, .print\:hidden {
+    display: none !important;
+  }
+
+  main {
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

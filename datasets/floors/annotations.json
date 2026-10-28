@@ -1,0 +1,2617 @@
+[
+  {
+    "id": "ann-train-1-1",
+    "image": "train/1/building_001.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-001",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-1-2",
+    "image": "train/1/building_002.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-002",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-1-3",
+    "image": "train/1/building_003.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-003",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-1-4",
+    "image": "train/1/building_004.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-004",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-1-5",
+    "image": "train/1/building_005.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "independent_villa",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-005",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-1-6",
+    "image": "train/1/building_006.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-006",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-1-7",
+    "image": "train/1/building_007.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-007",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-2-1",
+    "image": "train/2/building_008.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-008",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-2-2",
+    "image": "train/2/building_009.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-009",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-2-3",
+    "image": "train/2/building_010.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "independent_villa",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-010",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-2-4",
+    "image": "train/2/building_011.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-011",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-2-5",
+    "image": "train/2/building_012.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-012",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-2-6",
+    "image": "train/2/building_013.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-013",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-2-7",
+    "image": "train/2/building_014.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-014",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-3-1",
+    "image": "train/3/building_015.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "independent_villa",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-015",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-3-2",
+    "image": "train/3/building_016.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-016",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-3-3",
+    "image": "train/3/building_017.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-017",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-3-4",
+    "image": "train/3/building_018.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-018",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-3-5",
+    "image": "train/3/building_019.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-019",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-3-6",
+    "image": "train/3/building_020.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "mixed_use_stilt",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-020",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-3-7",
+    "image": "train/3/building_021.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-021",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-4-1",
+    "image": "train/4/building_022.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-022",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-4-2",
+    "image": "train/4/building_023.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-023",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-4-3",
+    "image": "train/4/building_024.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-024",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-4-4",
+    "image": "train/4/building_025.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "mixed_use_stilt",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-025",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-4-5",
+    "image": "train/4/building_026.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-026",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-4-6",
+    "image": "train/4/building_027.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-027",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-4-7",
+    "image": "train/4/building_028.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-028",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-5-1",
+    "image": "train/5/building_029.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-029",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-5-2",
+    "image": "train/5/building_030.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "mixed_use_stilt",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-030",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-5-3",
+    "image": "train/5/building_031.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-031",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-5-4",
+    "image": "train/5/building_032.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-032",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-5-5",
+    "image": "train/5/building_033.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-033",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-5-6",
+    "image": "train/5/building_034.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-034",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-5-7",
+    "image": "train/5/building_035.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "office_tower",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-035",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-6-1",
+    "image": "train/6/building_036.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-036",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-6-2",
+    "image": "train/6/building_037.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-037",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-6-3",
+    "image": "train/6/building_038.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-038",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-6-4",
+    "image": "train/6/building_039.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-039",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-6-5",
+    "image": "train/6/building_040.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "office_tower",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-040",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-6-6",
+    "image": "train/6/building_041.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-041",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-6-7",
+    "image": "train/6/building_042.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "train",
+    "building_id": "bld-ds-042",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-7-1",
+    "image": "train/7/building_043.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-043",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-7-2",
+    "image": "train/7/building_044.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "shadows",
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-044",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-7-3",
+    "image": "train/7/building_045.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "office_tower",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-045",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-7-4",
+    "image": "train/7/building_046.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-046",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-7-5",
+    "image": "train/7/building_047.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-047",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-7-6",
+    "image": "train/7/building_048.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-048",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-7-7",
+    "image": "train/7/building_049.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "train",
+    "building_id": "bld-ds-049",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-8-1",
+    "image": "train/8/building_050.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "office_tower",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-050",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-8-2",
+    "image": "train/8/building_051.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-051",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-train-8-3",
+    "image": "train/8/building_052.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "shadows",
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-052",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-train-8-4",
+    "image": "train/8/building_053.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-053",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-train-8-5",
+    "image": "train/8/building_054.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-054",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-train-8-6",
+    "image": "train/8/building_055.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "institutional_school",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-055",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-train-8-7",
+    "image": "train/8/building_056.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "train",
+    "building_id": "bld-ds-056",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-validation-1-1",
+    "image": "validation/1/building_057.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-057",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-validation-1-2",
+    "image": "validation/1/building_058.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-058",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-validation-2-1",
+    "image": "validation/2/building_059.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-059",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-validation-2-2",
+    "image": "validation/2/building_060.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "commercial_complex",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-060",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-validation-3-1",
+    "image": "validation/3/building_061.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "validation",
+    "building_id": "bld-ds-061",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-validation-3-2",
+    "image": "validation/3/building_062.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "validation",
+    "building_id": "bld-ds-062",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-validation-4-1",
+    "image": "validation/4/building_063.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-063",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-validation-4-2",
+    "image": "validation/4/building_064.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-064",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-validation-5-1",
+    "image": "validation/5/building_065.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "office_tower",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-065",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-validation-5-2",
+    "image": "validation/5/building_066.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-066",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-validation-6-1",
+    "image": "validation/6/building_067.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.14,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "validation",
+    "building_id": "bld-ds-067",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-validation-6-2",
+    "image": "validation/6/building_068.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "commercial_complex",
+    "visibility": "poor",
+    "difficulties": [
+      "shadows",
+      "partial_facade",
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "validation",
+    "building_id": "bld-ds-068",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-validation-7-1",
+    "image": "validation/7/building_069.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "office_tower",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-069",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-validation-7-2",
+    "image": "validation/7/building_070.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "mixed_use_stilt",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "vehicles_foreground"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "validation",
+    "building_id": "bld-ds-070",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-validation-8-1",
+    "image": "validation/8/building_071.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "residential_apartment",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.62,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-071",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-validation-8-2",
+    "image": "validation/8/building_072.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "validation",
+    "building_id": "bld-ds-072",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-test-1-1",
+    "image": "test/1/building_073.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-073",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-test-1-2",
+    "image": "test/1/building_074.svg",
+    "floor_count": 1,
+    "storeys_config": "Ground Floor (G)",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-074",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-test-2-1",
+    "image": "test/2/building_075.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "mixed_use_stilt",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-075",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-test-2-2",
+    "image": "test/2/building_076.svg",
+    "floor_count": 2,
+    "storeys_config": "G+1",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.51,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-076",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-test-3-1",
+    "image": "test/3/building_077.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground",
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "test",
+    "building_id": "bld-ds-077",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-test-3-2",
+    "image": "test/3/building_078.svg",
+    "floor_count": 3,
+    "storeys_config": "G+2",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "roof_structure"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.72
+    },
+    "floor_boundaries": [
+      0.14,
+      0.38,
+      0.62,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.14,
+    "split": "test",
+    "building_id": "bld-ds-078",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-test-4-1",
+    "image": "test/4/building_079.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-079",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-test-4-2",
+    "image": "test/4/building_080.svg",
+    "floor_count": 4,
+    "storeys_config": "G+3",
+    "style": "independent_villa",
+    "visibility": "partial",
+    "difficulties": [
+      "trees_blocking",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.16,
+      0.33,
+      0.5,
+      0.67,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-080",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-test-5-1",
+    "image": "test/5/building_081.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "commercial_complex",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-081",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-test-5-2",
+    "image": "test/5/building_082.svg",
+    "floor_count": 5,
+    "storeys_config": "G+4",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.68
+    },
+    "floor_boundaries": [
+      0.18,
+      0.316,
+      0.452,
+      0.588,
+      0.724,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-082",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-test-6-1",
+    "image": "test/6/building_083.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.14,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "test",
+    "building_id": "bld-ds-083",
+    "camera_angle_deg": 90
+  },
+  {
+    "id": "ann-test-6-2",
+    "image": "test/6/building_084.svg",
+    "floor_count": 6,
+    "storeys_config": "G+5",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "vehicles_foreground",
+      "shadows"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.14,
+      "width": 0.68,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.14,
+      0.257,
+      0.373,
+      0.49,
+      0.607,
+      0.723,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.14,
+    "split": "test",
+    "building_id": "bld-ds-084",
+    "camera_angle_deg": 105
+  },
+  {
+    "id": "ann-test-7-1",
+    "image": "test/7/building_085.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "commercial_complex",
+    "visibility": "poor",
+    "difficulties": [
+      "trees_blocking",
+      "partial_facade",
+      "trees_blocking"
+    ],
+    "building_bbox": {
+      "x": 0.17,
+      "y": 0.16,
+      "width": 0.65,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-085",
+    "camera_angle_deg": 45
+  },
+  {
+    "id": "ann-test-7-2",
+    "image": "test/7/building_086.svg",
+    "floor_count": 7,
+    "storeys_config": "G+6",
+    "style": "institutional_school",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.19,
+      "y": 0.16,
+      "width": 0.62,
+      "height": 0.7
+    },
+    "floor_boundaries": [
+      0.16,
+      0.26,
+      0.36,
+      0.46,
+      0.56,
+      0.66,
+      0.76,
+      0.86
+    ],
+    "ground_level": 0.86,
+    "roof_level": 0.16,
+    "split": "test",
+    "building_id": "bld-ds-086",
+    "camera_angle_deg": 60
+  },
+  {
+    "id": "ann-test-8-1",
+    "image": "test/8/building_087.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "mixed_use_stilt",
+    "visibility": "good",
+    "difficulties": [
+      "none"
+    ],
+    "building_bbox": {
+      "x": 0.21,
+      "y": 0.18,
+      "width": 0.68,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-087",
+    "camera_angle_deg": 75
+  },
+  {
+    "id": "ann-test-8-2",
+    "image": "test/8/building_088.svg",
+    "floor_count": 8,
+    "storeys_config": "G+7",
+    "style": "independent_villa",
+    "visibility": "good",
+    "difficulties": [
+      "shadows",
+      "compound_wall"
+    ],
+    "building_bbox": {
+      "x": 0.15,
+      "y": 0.18,
+      "width": 0.65,
+      "height": 0.66
+    },
+    "floor_boundaries": [
+      0.18,
+      0.262,
+      0.345,
+      0.428,
+      0.51,
+      0.593,
+      0.675,
+      0.757,
+      0.84
+    ],
+    "ground_level": 0.84,
+    "roof_level": 0.18,
+    "split": "test",
+    "building_id": "bld-ds-088",
+    "camera_angle_deg": 90
+  }
+]

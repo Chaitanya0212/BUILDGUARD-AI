@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+      <defs>
+        <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#90cdf4" />
+          <stop offset="100%" stop-color="#ebf8ff" />
+        </linearGradient>
+      </defs>
+      <!-- Sky Background -->
+      <rect x="0" y="0" width="640" height="480" fill="url(#skyGrad)" />
+      
+      <!-- Building Façade -->
+      <g id="building-facade">
+        
+      <!-- Floor 8 Level -->
+      <rect x="96" y="86" width="397" height="40" fill="#cbd5e0" />
+    
+      <rect x="90" y="122" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="97" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="97" x2="151.5" y2="115" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="97" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="97" x2="246.5" y2="115" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="97" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="97" x2="341.5" y2="115" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="97" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="97" x2="436.5" y2="115" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 7 Level -->
+      <rect x="96" y="126" width="397" height="40" fill="#cbd5e0" />
+    
+      <rect x="90" y="162" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="137" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="137" x2="151.5" y2="155" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="137" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="137" x2="246.5" y2="155" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="137" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="137" x2="341.5" y2="155" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="137" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="137" x2="436.5" y2="155" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 6 Level -->
+      <rect x="96" y="166" width="397" height="39" fill="#cbd5e0" />
+    
+      <rect x="90" y="201" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="177" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="177" x2="151.5" y2="195" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="177" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="177" x2="246.5" y2="195" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="177" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="177" x2="341.5" y2="195" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="177" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="177" x2="436.5" y2="195" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 5 Level -->
+      <rect x="96" y="205" width="397" height="40" fill="#cbd5e0" />
+    
+      <rect x="90" y="241" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="216" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="216" x2="151.5" y2="234" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="216" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="216" x2="246.5" y2="234" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="216" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="216" x2="341.5" y2="234" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="216" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="216" x2="436.5" y2="234" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 4 Level -->
+      <rect x="96" y="245" width="397" height="40" fill="#cbd5e0" />
+    
+      <rect x="90" y="281" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="256" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="256" x2="151.5" y2="274" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="256" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="256" x2="246.5" y2="274" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="256" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="256" x2="341.5" y2="274" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="256" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="256" x2="436.5" y2="274" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 3 Level -->
+      <rect x="96" y="285" width="397" height="39" fill="#cbd5e0" />
+    
+      <rect x="90" y="320" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="296" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="296" x2="151.5" y2="314" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="296" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="296" x2="246.5" y2="314" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="296" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="296" x2="341.5" y2="314" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="296" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="296" x2="436.5" y2="314" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 2 Level -->
+      <rect x="96" y="324" width="397" height="39" fill="#cbd5e0" />
+    
+      <rect x="90" y="359" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="335" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="335" x2="151.5" y2="353" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="335" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="335" x2="246.5" y2="353" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="335" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="335" x2="341.5" y2="353" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="335" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="335" x2="436.5" y2="353" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 1 Level -->
+      <rect x="96" y="363" width="397" height="40" fill="#cbd5e0" />
+    
+      <rect x="90" y="399" width="409" height="6" fill="#2b6cb0" opacity="0.9" />
+    
+        <rect x="112" y="374" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="151.5" y1="374" x2="151.5" y2="392" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="207" y="374" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="246.5" y1="374" x2="246.5" y2="392" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="302" y="374" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="341.5" y1="374" x2="341.5" y2="392" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="397" y="374" width="79" height="18" fill="#63b3ed" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="436.5" y1="374" x2="436.5" y2="392" stroke="#2d3748" stroke-width="1.5" />
+      
+        
+    <!-- Roof Parapet -->
+    <rect x="86" y="74" width="417" height="14" fill="#2b6cb0" stroke="#1a202c" stroke-width="2" />
+    
+  
+      </g>
+      
+      <!-- Ground & Street -->
+      
+    <!-- Ground Baseline -->
+    <rect x="0" y="403" width="640" height="77" fill="#4a5568" />
+    <line x1="0" y1="403" x2="640" y2="403" stroke="#2d3748" stroke-width="3" />
+    <rect x="0" y="415" width="640" height="65" fill="#2d3748" />
+  
+      
+      <!-- Real-world occlusions & artifacts -->
+      
+      <!-- Vehicle blocking lower facade -->
+      <rect x="353" y="373" width="120" height="38" rx="8" fill="#c53030" opacity="0.9" />
+      <circle cx="378" cy="411" r="12" fill="#1a202c" />
+      <circle cx="448" cy="411" r="12" fill="#1a202c" />
+    
+      <!-- Diagonal Cast Shadow -->
+      <polygon points="96,86 254.8,86 413.6,403 96,403" fill="#000000" opacity="0.28" />
+    
+      
+      <!-- Metadata Tag -->
+      <text x="12" y="20" font-family="monospace" font-size="10" fill="#2d3748" opacity="0.65">BG-DATASET // F8 // OFFICE_TOWER</text>
+    </svg>

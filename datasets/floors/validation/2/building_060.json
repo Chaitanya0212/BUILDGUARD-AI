@@ -1,0 +1,28 @@
+{
+  "id": "ann-validation-2-2",
+  "image": "validation/2/building_060.svg",
+  "floor_count": 2,
+  "storeys_config": "G+1",
+  "style": "commercial_complex",
+  "visibility": "partial",
+  "difficulties": [
+    "trees_blocking",
+    "shadows"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.18,
+    "width": 0.68,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.51,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "validation",
+  "building_id": "bld-ds-060",
+  "camera_angle_deg": 45
+}

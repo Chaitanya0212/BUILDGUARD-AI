@@ -1,0 +1,29 @@
+{
+  "id": "ann-test-4-1",
+  "image": "test/4/building_079.svg",
+  "floor_count": 4,
+  "storeys_config": "G+3",
+  "style": "mixed_use_stilt",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.21,
+    "y": 0.16,
+    "width": 0.65,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.16,
+    0.33,
+    0.5,
+    0.67,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.16,
+  "split": "test",
+  "building_id": "bld-ds-079",
+  "camera_angle_deg": 105
+}

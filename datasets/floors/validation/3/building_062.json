@@ -1,0 +1,28 @@
+{
+  "id": "ann-validation-3-2",
+  "image": "validation/3/building_062.svg",
+  "floor_count": 3,
+  "storeys_config": "G+2",
+  "style": "mixed_use_stilt",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.19,
+    "y": 0.14,
+    "width": 0.62,
+    "height": 0.72
+  },
+  "floor_boundaries": [
+    0.14,
+    0.38,
+    0.62,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.14,
+  "split": "validation",
+  "building_id": "bld-ds-062",
+  "camera_angle_deg": 75
+}

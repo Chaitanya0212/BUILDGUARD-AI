@@ -1,0 +1,140 @@
+{
+  "totalEvaluated": 32,
+  "accuracyPct": 93.8,
+  "meanAbsoluteError": 0.06,
+  "perClassAccuracy": {
+    "1": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    },
+    "2": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    },
+    "3": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    },
+    "4": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    },
+    "5": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    },
+    "6": {
+      "total": 4,
+      "correct": 3,
+      "accuracyPct": 75
+    },
+    "7": {
+      "total": 4,
+      "correct": 3,
+      "accuracyPct": 75
+    },
+    "8": {
+      "total": 4,
+      "correct": 4,
+      "accuracyPct": 100
+    }
+  },
+  "confusionMatrix": [
+    [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4
+    ]
+  ],
+  "errorDistribution": {
+    "exactMatch": 30,
+    "offByOne": 2,
+    "offByTwoOrMore": 0
+  },
+  "trainedAt": "2026-09-24T17:02:57.461Z",
+  "datasetCounts": {
+    "train": 56,
+    "validation": 16,
+    "test": 16
+  }
+}

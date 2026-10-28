@@ -1,0 +1,26 @@
+{
+  "id": "ann-train-1-1",
+  "image": "train/1/building_001.svg",
+  "floor_count": 1,
+  "storeys_config": "Ground Floor (G)",
+  "style": "commercial_complex",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.17,
+    "y": 0.16,
+    "width": 0.65,
+    "height": 0.7
+  },
+  "floor_boundaries": [
+    0.16,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.16,
+  "split": "train",
+  "building_id": "bld-ds-001",
+  "camera_angle_deg": 60
+}

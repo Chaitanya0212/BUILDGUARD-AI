@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+      <defs>
+        <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#90cdf4" />
+          <stop offset="100%" stop-color="#ebf8ff" />
+        </linearGradient>
+      </defs>
+      <!-- Sky Background -->
+      <rect x="0" y="0" width="640" height="480" fill="url(#skyGrad)" />
+      
+      <!-- Building Façade -->
+      <g id="building-facade">
+        
+      <!-- Floor 2 Level -->
+      <rect x="109" y="86" width="416" height="159" fill="#fed7d7" />
+    
+      <rect x="103" y="241" width="428" height="6" fill="#9b2c2c" opacity="0.9" />
+    
+        <rect x="125" y="130" width="84" height="72" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="167" y1="130" x2="167" y2="202" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="225" y="130" width="84" height="72" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="267" y1="130" x2="267" y2="202" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="325" y="130" width="84" height="72" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="367" y1="130" x2="367" y2="202" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="425" y="130" width="84" height="72" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="467" y1="130" x2="467" y2="202" stroke="#2d3748" stroke-width="1.5" />
+      
+      <!-- Floor 1 Level -->
+      <rect x="109" y="245" width="416" height="158" fill="#fed7d7" />
+    
+      <rect x="103" y="399" width="428" height="6" fill="#9b2c2c" opacity="0.9" />
+    
+        <rect x="125" y="289" width="84" height="71" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="167" y1="289" x2="167" y2="360" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="225" y="289" width="84" height="71" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="267" y1="289" x2="267" y2="360" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="325" y="289" width="84" height="71" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="367" y1="289" x2="367" y2="360" stroke="#2d3748" stroke-width="1.5" />
+      
+        <rect x="425" y="289" width="84" height="71" fill="#e2e8f0" stroke="#2d3748" stroke-width="2" rx="2" />
+        <line x1="467" y1="289" x2="467" y2="360" stroke="#2d3748" stroke-width="1.5" />
+      
+        
+    <!-- Roof Parapet -->
+    <rect x="99" y="74" width="436" height="14" fill="#9b2c2c" stroke="#1a202c" stroke-width="2" />
+    <rect x="139" y="51" width="50" height="24" fill="#4a5568" /><text x="144" y="66" font-family="sans-serif" font-size="9" fill="#e2e8f0">HVAC/TANK</text>
+  
+      </g>
+      
+      <!-- Ground & Street -->
+      
+    <!-- Ground Baseline -->
+    <rect x="0" y="403" width="640" height="77" fill="#4a5568" />
+    <line x1="0" y1="403" x2="640" y2="403" stroke="#2d3748" stroke-width="3" />
+    <rect x="0" y="415" width="640" height="65" fill="#2d3748" />
+  
+      
+      <!-- Real-world occlusions & artifacts -->
+      
+      
+      <!-- Metadata Tag -->
+      <text x="12" y="20" font-family="monospace" font-size="10" fill="#2d3748" opacity="0.65">BG-DATASET // F2 // INSTITUTIONAL_SCHOOL</text>
+    </svg>

@@ -1,0 +1,30 @@
+{
+  "id": "ann-test-5-1",
+  "image": "test/5/building_081.svg",
+  "floor_count": 5,
+  "storeys_config": "G+4",
+  "style": "commercial_complex",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.17,
+    "y": 0.18,
+    "width": 0.68,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.18,
+    0.316,
+    0.452,
+    0.588,
+    0.724,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.18,
+  "split": "test",
+  "building_id": "bld-ds-081",
+  "camera_angle_deg": 60
+}

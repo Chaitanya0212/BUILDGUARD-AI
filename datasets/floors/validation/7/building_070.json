@@ -1,0 +1,33 @@
+{
+  "id": "ann-validation-7-2",
+  "image": "validation/7/building_070.svg",
+  "floor_count": 7,
+  "storeys_config": "G+6",
+  "style": "mixed_use_stilt",
+  "visibility": "partial",
+  "difficulties": [
+    "trees_blocking",
+    "vehicles_foreground"
+  ],
+  "building_bbox": {
+    "x": 0.19,
+    "y": 0.16,
+    "width": 0.65,
+    "height": 0.7
+  },
+  "floor_boundaries": [
+    0.16,
+    0.26,
+    0.36,
+    0.46,
+    0.56,
+    0.66,
+    0.76,
+    0.86
+  ],
+  "ground_level": 0.86,
+  "roof_level": 0.16,
+  "split": "validation",
+  "building_id": "bld-ds-070",
+  "camera_angle_deg": 45
+}

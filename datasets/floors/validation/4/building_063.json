@@ -1,0 +1,29 @@
+{
+  "id": "ann-validation-4-1",
+  "image": "validation/4/building_063.svg",
+  "floor_count": 4,
+  "storeys_config": "G+3",
+  "style": "residential_apartment",
+  "visibility": "good",
+  "difficulties": [
+    "vehicles_foreground"
+  ],
+  "building_bbox": {
+    "x": 0.21,
+    "y": 0.16,
+    "width": 0.68,
+    "height": 0.68
+  },
+  "floor_boundaries": [
+    0.16,
+    0.33,
+    0.5,
+    0.67,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.16,
+  "split": "validation",
+  "building_id": "bld-ds-063",
+  "camera_angle_deg": 90
+}

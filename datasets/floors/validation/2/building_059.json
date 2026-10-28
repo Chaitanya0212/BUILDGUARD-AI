@@ -1,0 +1,27 @@
+{
+  "id": "ann-validation-2-1",
+  "image": "validation/2/building_059.svg",
+  "floor_count": 2,
+  "storeys_config": "G+1",
+  "style": "residential_apartment",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.21,
+    "y": 0.18,
+    "width": 0.62,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.51,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "validation",
+  "building_id": "bld-ds-059",
+  "camera_angle_deg": 105
+}

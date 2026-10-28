@@ -1,0 +1,34 @@
+{
+  "id": "ann-test-8-2",
+  "image": "test/8/building_088.svg",
+  "floor_count": 8,
+  "storeys_config": "G+7",
+  "style": "independent_villa",
+  "visibility": "good",
+  "difficulties": [
+    "shadows",
+    "compound_wall"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.18,
+    "width": 0.65,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.262,
+    0.345,
+    0.428,
+    0.51,
+    0.593,
+    0.675,
+    0.757,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "test",
+  "building_id": "bld-ds-088",
+  "camera_angle_deg": 90
+}

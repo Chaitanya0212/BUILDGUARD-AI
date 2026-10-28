@@ -1,0 +1,33 @@
+{
+  "id": "ann-train-8-4",
+  "image": "train/8/building_053.svg",
+  "floor_count": 8,
+  "storeys_config": "G+7",
+  "style": "residential_apartment",
+  "visibility": "good",
+  "difficulties": [
+    "none"
+  ],
+  "building_bbox": {
+    "x": 0.17,
+    "y": 0.18,
+    "width": 0.62,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.262,
+    0.345,
+    0.428,
+    0.51,
+    0.593,
+    0.675,
+    0.757,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "train",
+  "building_id": "bld-ds-053",
+  "camera_angle_deg": 90
+}

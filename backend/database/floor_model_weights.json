@@ -1,0 +1,19 @@
+{
+  "version": "cv-facade-v3.0-hybrid",
+  "slabThreshold": 0.285,
+  "autocorrelationWeight": 0.36,
+  "geometricUniformityWeight": 0.46,
+  "windowSupportingWeight": 0.2,
+  "aspectRatioPriors": {
+    "1": 0.4,
+    "2": 0.65,
+    "3": 0.9,
+    "4": 1.15,
+    "5": 1.4,
+    "6": 1.65,
+    "7": 1.9,
+    "8": 2.15
+  },
+  "trainedEpochs": 20,
+  "lastTrainedAt": "2026-09-24T17:02:57.460Z"
+}

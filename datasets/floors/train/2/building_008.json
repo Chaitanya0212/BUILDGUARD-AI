@@ -1,0 +1,27 @@
+{
+  "id": "ann-train-2-1",
+  "image": "train/2/building_008.svg",
+  "floor_count": 2,
+  "storeys_config": "G+1",
+  "style": "office_tower",
+  "visibility": "good",
+  "difficulties": [
+    "shadows"
+  ],
+  "building_bbox": {
+    "x": 0.15,
+    "y": 0.18,
+    "width": 0.62,
+    "height": 0.66
+  },
+  "floor_boundaries": [
+    0.18,
+    0.51,
+    0.84
+  ],
+  "ground_level": 0.84,
+  "roof_level": 0.18,
+  "split": "train",
+  "building_id": "bld-ds-008",
+  "camera_angle_deg": 90
+}

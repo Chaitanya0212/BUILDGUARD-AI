@@ -1,0 +1,6 @@
+{
+  "name": "BUILDGUARD AI",
+  "description": "AI-based building violation detection, spatial change analysis, and municipal intelligence platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
